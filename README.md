@@ -1,6 +1,5 @@
 
 <h1 align="center"><b>Hi , I'm Sarang Nikhare </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
 
 <br>
 
@@ -8,10 +7,10 @@
 
 <br>
 
-- A passionate Full-stack developer
+- I am a passionate Full-stack developer
 - Currently pursuing my MS in Computer Science at University of Southern California
 - At the moment, working on building my portfolio website
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1jGaHFFQQcvXQXZ8wMSQncQZ8gXjjBrlX/view?usp=drive_link)
+- I’m currently open for any internship opportunities, this is [my resume](https://drive.google.com/file/d/1jGaHFFQQcvXQXZ8wMSQncQZ8gXjjBrlX/view?usp=drive_link)
 
 <br><br>
 
@@ -19,7 +18,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
 <p align="center">
 
 - **Languages**:
@@ -30,7 +28,6 @@
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>   
-
   
 - **Web Development**:
 
@@ -45,7 +42,6 @@
    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
     
-
 <br>
 
 - **Others**
@@ -76,12 +72,6 @@
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -95,13 +85,6 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b>
@@ -129,11 +112,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ---
 
